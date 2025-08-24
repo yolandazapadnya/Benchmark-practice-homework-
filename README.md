@@ -4,6 +4,7 @@ This is an example of a homework that I did for the online course "Introducción
 This task was done in
 
 Visual Studio Code
+
 Version: 1.102.2 (Universal)
 Commit: c306e94f98122556ca081f527b466015e1bc37b0
 Date: 2025-07-22T12:15:48.520Z
